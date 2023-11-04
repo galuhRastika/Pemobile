@@ -1,11 +1,12 @@
 
 ![poster pemmob](https://github.com/galuhRastika/Pemobile/assets/149854003/22495aaa-b342-416c-8e57-36a2fc2cc6e4)
  
-#Short Description
+
+##Short Description
 
 "History" is an application designed to help increase the literacy movement in Indonesia, with easy access to the application which is free and can be accessed anytime and anywhere.
 
-## Information
+### Information
 
 The History application allows you to read historical stories for free. 
 
