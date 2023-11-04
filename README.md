@@ -11,8 +11,9 @@
 The History application allows you to read historical stories for free. 
 
 ## Features in History:
-- Log in and register
 - Dashboard (to see story options) read stories according to the selected category
+- Sejarah Pahlawan
+- Sejarah Indonesia
 - Add stories (photos, biodata, and descriptions)
 - Activity
 
