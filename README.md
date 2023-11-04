@@ -1,5 +1,3 @@
-![Uploading poster pemmob.png…]()
-
 # Short Description
 
 "History" is an application designed to help increase the literacy movement in Indonesia, with easy access to the application which is free and can be accessed anytime and anywhere.
