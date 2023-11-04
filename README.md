@@ -1,2 +1,16 @@
-# Pemobile
-![poster pemmob](https://github.com/galuhRastika/Pemobile/assets/149854003/6fc956c1-8ac3-4acc-9531-82fd04815013)
+# flutter_pemmob
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
