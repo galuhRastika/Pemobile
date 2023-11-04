@@ -1,6 +1,7 @@
 
 ![poster pemmob](https://github.com/galuhRastika/Pemobile/assets/149854003/22495aaa-b342-416c-8e57-36a2fc2cc6e4)
- 
+![desain pemmob](https://github.com/galuhRastika/Pemobile/assets/149854003/bbe9d666-e2fc-42bf-9a06-4a60ecca41e1)
+
 
 ## Short Description
 
