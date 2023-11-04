@@ -19,3 +19,5 @@ Created by group 6:
 2. Divita Aulia L        (22050974002)
 3. Cintiya               (22050974021)
 4. Ofpani Aziz Amanah    (22050974033)
+
+https://pendidikan-ti.ft.unesa.ac.id/ https://ft.unesa.ac.id/  https://www.unesa.ac.id/
